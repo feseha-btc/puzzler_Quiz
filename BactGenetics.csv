@@ -1,0 +1,62 @@
+Which condition is required for a bacterium to take up external DNA during transformation?,Presence of ribosomes,Competence,Conjugative plasmid,Phage infection,Competence
+A bacterium that only accepts DNA from closely related species likely uses what mechanism?,Random uptake,Sequence-specific uptake,Phage-mediated transfer,Pilus formation,Sequence-specific uptake
+What is the most likely outcome if a bacterium is not competent?,It cannot replicate DNA,It cannot take up DNA,It cannot transcribe genes,It cannot divide,It cannot take up DNA
+Transformation involves the uptake of what type of material?,Proteins,RNA,DNA,Lipids,DNA
+Which process involves bacteriophages transferring DNA between bacteria?,Transformation,Conjugation,Transduction,Binary fission,Transduction
+Which type of transduction can transfer any gene from the donor?,Specialized,Generalized,Conjugation,Transformation,Generalized
+Which type of transduction transfers only specific genes near the prophage?,Generalized,Specialized,Transformation,Replication,Specialized
+What causes generalized transduction?,DNA replication error,Phage assembly error,Ribosome failure,Mutation,Phage assembly error
+A bacteriophage packages host DNA instead of viral DNA. What occurs?,Transformation,Conjugation,Generalized transduction,Translation,Generalized transduction
+Which structure is required for bacterial conjugation?,Flagellum,Pilus,Ribosome,Cell wall,Pilus
+What is the role of the F plasmid in E. coli?,Protein synthesis,Energy production,Conjugation,Replication,Conjugation
+What happens to an F– cell after conjugation with an F+ cell?,Dies,Remains F–,Becomes F+,Loses DNA,Becomes F+
+Which enzyme nicks the plasmid during conjugation?,Ligase,Helicase,Endonuclease,Polymerase,Endonuclease
+What is transferred during conjugation?,Double-stranded DNA,Single-stranded DNA,RNA,Protein,Single-stranded DNA
+What happens after DNA transfer in conjugation?,DNA is degraded,Complementary strand is synthesized,RNA is formed,Cell dies,Complementary strand is synthesized
+Which component brings bacterial cells together in conjugation?,Capsule,Cell wall,Sex pilus,Ribosome,Sex pilus
+Which genes are shared by all strains of a species?,Mobile genes,Core genome,Plasmid genes,Phage genes,Core genome
+What makes up the mobile gene pool?,Only chromosomes,Only plasmids,Plasmids and transposons,Ribosomes,Plasmids and transposons
+Which genetic element is typically nonessential for survival?,Chromosome,Plasmid,Ribosome,Cell membrane,Plasmid
+What is a high-copy-number plasmid?,One copy per cell,Two copies per cell,Many copies per cell,No copies per cell,Many copies per cell
+What determines plasmid host range?,Ribosome binding,Replication origin compatibility,Protein folding,Cell size,Replication origin compatibility
+Which plasmids can transfer between different species?,Narrow host range,Broad host range,Low-copy plasmids,Chromosomal DNA,Broad host range
+What is gene regulation?,DNA replication,Control of gene expression,Protein degradation,Mutation,Control of gene expression
+What is an operon?,Single gene,Group of genes transcribed together,RNA molecule,Protein complex,Group of genes transcribed together
+Where does RNA polymerase bind?,Operator,Promoter,Enhancer,Terminator,Promoter
+What is the function of the operator?,Protein synthesis,DNA replication,Control transcription,Transport molecules,Control transcription
+What does a repressor protein do?,Enhances transcription,Blocks transcription,Replicates DNA,Degrades RNA,Blocks transcription
+Which molecule removes the repressor in the lac operon?,Glucose,Tryptophan,Allolactose,cAMP,Allolactose
+What happens in a repressible operon when the end product is abundant?,Transcription increases,Transcription stops,Mutation occurs,Translation increases,Transcription stops
+The trp operon is best described as?,Inducible,Repressible,Constitutive,Inactive,Repressible
+The lac operon is best described as?,Repressible,Inducible,Inactive,Structural,Inducible
+What is the role of cAMP in gene regulation?,Blocks RNA polymerase,Activates CAP,Degrades DNA,Inhibits ribosomes,Activates CAP
+What happens when glucose is low?,cAMP decreases,cAMP increases,DNA degrades,Protein synthesis stops,cAMP increases
+What does CAP do when bound to cAMP?,Blocks transcription,Enhances transcription,Degrades RNA,Stops translation,Enhances transcription
+What type of regulation is the lac operon?,Positive only,Negative only,Both positive and negative,None,Both positive and negative
+Which condition leads to maximum lac operon expression?,High glucose,No lactose,Low glucose and lactose present,No cAMP,Low glucose and lactose present
+What is the role of a corepressor?,Activates genes,Enhances transcription,Helps repressor bind operator,Destroys DNA,Helps repressor bind operator
+What is a structural gene?,Regulates DNA,Codes for protein,Degrades RNA,Replicates DNA,Codes for protein
+Which mutation would cause an operon to always be ON?,Repressor cannot bind operator,Promoter deleted,RNA polymerase absent,Operator removed,Repressor cannot bind operator
+Which mutation would cause an operon to always be OFF?,Repressor inactive,Promoter mutation preventing RNA polymerase binding,Inducer present,cAMP high,Promoter mutation preventing RNA polymerase binding
+Which process spreads antibiotic resistance quickly?,Transformation only,Conjugation,Replication,Translation,Conjugation
+Which element can move within a genome?,Plasmid,Ribosome,Transposon,Operator,Transposon
+Which process requires direct contact?,Transformation,Transduction,Conjugation,Replication,Conjugation
+Which process involves naked DNA?,Transduction,Transformation,Conjugation,Translation,Transformation
+Which process involves viruses?,Transformation,Conjugation,Transduction,Replication,Transduction
+Which scenario best describes horizontal gene transfer?,Parent to offspring,Between organisms of same generation,DNA replication,Protein synthesis,Between organisms of same generation
+Which condition activates the trp operon?,High tryptophan,Low tryptophan,High glucose,High lactose,Low tryptophan
+Transformation requires a competent cell.,True,False,,,True
+Generalized transduction transfers only specific genes.,True,False,,,False
+Conjugation requires direct cell-to-cell contact.,True,False,,,True
+F+ cells lack the F plasmid.,True,False,,,False
+Plasmids are always essential for survival.,True,False,,,False
+The core genome is identical in all strains of a species.,True,False,,,True
+High-copy plasmids exist in many copies per cell.,True,False,,,True
+The lac operon is repressible.,True,False,,,False
+The trp operon is inducible.,True,False,,,False
+cAMP levels increase when glucose is low.,True,False,,,True
+CAP enhances transcription when bound to cAMP.,True,False,,,True
+A repressor protein blocks RNA polymerase.,True,False,,,True
+Inducers activate repressors.,True,False,,,False
+Transposons can move within the genome.,True,False,,,True
+Horizontal gene transfer occurs only during reproduction.,True,False,,,False
